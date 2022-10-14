@@ -1,7 +1,7 @@
 ### Hiroki Akahoshi
 Toyo Univ INIAD student(4th).
 
-### [My portfolio](https://akahoshi1421.github.io/akahoshi-port/)
+### [My portfolio is here](https://akahoshi1421.github.io/akahoshi-port/)
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=akahoshi1421&count_private=true)
 
