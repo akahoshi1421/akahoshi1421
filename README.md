@@ -1,9 +1,9 @@
-### Hiroki Akahoshi
+# Hiroki Akahoshi
 Toyo Univ INIAD student(4th).
 
 ### [My portfolio is here](https://akahoshi1421.github.io/akahoshi-port/)
 
-Languages and tools:
+### Languages and tools:
 
 <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/144px-Unofficial_JavaScript_logo_2.svg.png" height="40"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" height="40"></a>
