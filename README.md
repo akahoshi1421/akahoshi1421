@@ -27,10 +27,14 @@ Toyo Univ INIAD student(4th).
 <a href="https://ubuntu.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" height="40"></a>
 <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" height="40"></a>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akahoshi1421&count_private=true" alt="Github Stats Card" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akahoshi1421&layout=compact" alt="Top Languages Card" height="200px">
+</p>
 
-![Github Stats Card](https://github-readme-stats.vercel.app/api?username=akahoshi1421&count_private=true)
+### Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=akahoshi1421&theme=&column=7)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akahoshi1421&layout=compact)
 <!--
 **akahoshi1421/akahoshi1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
