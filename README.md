@@ -8,6 +8,9 @@
 ### Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=akahoshi1421)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Gitty Score](https://gitty-code.com/api/badge/akahoshi1421.png)](https://gitty-code.com/user/akahoshi1421)
+
+
 <!--
 **akahoshi1421/akahoshi1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
