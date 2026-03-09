@@ -2,11 +2,12 @@
 
 ### My portfolio is [here](https://akahoshi1421.github.io/akahoshi-port/)
 
-[![akahoshi1421's GitHub stats](https://github-readme-stats.vercel.app/api?username=akahoshi1421)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![akahoshi1421's GitHub stats](https://github-readme-stats.vercel.app/api?username=akahoshi1421)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akahoshi1421)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=akahoshi1421)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 [![Gitty Score](https://gitty-code.com/api/badge/akahoshi1421.png)](https://gitty-code.com/user/akahoshi1421)
 
